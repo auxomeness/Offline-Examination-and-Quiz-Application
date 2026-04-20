@@ -1,7 +1,3 @@
-Here’s your updated **README.md** with the correct GNU GPL v3 license:
-
----
-
 # Offline Examination and Quiz Application
 
 A Java-based desktop application for conducting offline examinations and quizzes. The system supports multiple user roles including administrators, instructors, and students, allowing full quiz lifecycle management without requiring an internet connection.
